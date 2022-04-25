@@ -11,5 +11,5 @@
 * [ ] BottomNavigationLayout
 * [ ] FakeDialog
 * [ ] SimpleRequester
-* [ ] RouletteTextView
+* [x] RouletteTextView
 * [ ] ExtendedEditText
