@@ -4,7 +4,7 @@ title: RouletteTextView
 ---
 
 # [RouletteTextView](https://github.com/DarkTornado/RouletteTextView)
-public class RouletteTextView extends WebView
+public class RouletteTextView extends android.webkit.WebView
 
 * A `View` which contains text that rotates like a slot machine.
 * 슬롯머신 비슷하게 위에서 아래로 돌아가는 텍스트를 포함하고 있는 `View`.
