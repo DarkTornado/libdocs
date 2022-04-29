@@ -5,7 +5,7 @@
 
 ## To do
 * [x] Jekyll 테마 적용
-* [ ] AlertWindow
+* [x] AlertWindow
 * [ ] FloatingWindow
 * [ ] AndroidCodeHighlighter
 * [ ] BottomNavigationLayout
