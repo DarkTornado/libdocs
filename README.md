@@ -13,4 +13,4 @@
 * [ ] SimpleRequester
 * [x] RouletteTextView
 * [ ] ExtendedEditText
-* [ ] Android-SnackBar](Android-SnackBar)
+* [ ] Android-SnackBar](https://github.com/DarkTornado/Android-SnackBar)
