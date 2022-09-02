@@ -5,12 +5,12 @@
 
 ## To do
 * [x] Jekyll 테마 적용
-* [x] AlertWindow
+* [x] [AlertWindow](https://github.com/DarkTornado/AlertWindow)
 * [ ] FloatingWindow
 * [ ] AndroidCodeHighlighter
 * [ ] BottomNavigationLayout
 * [ ] FakeDialog
 * [ ] SimpleRequester
-* [x] RouletteTextView
+* [x] [RouletteTextView](https://github.com/DarkTornado/RouletteTextView)
 * [ ] ExtendedEditText
-* [ ] Android-SnackBar](https://github.com/DarkTornado/Android-SnackBar)
+* [ ] [Android-SnackBar](https://github.com/DarkTornado/Android-SnackBar)
