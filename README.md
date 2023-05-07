@@ -14,4 +14,4 @@
 * [ ] FloatingWindow
 * [ ] [PhoneNumberBar](https://github.com/DarkTornado/PhoneNumberBar)
 * [x] [RouletteTextView](https://github.com/DarkTornado/RouletteTextView)
-* [ ] SimpleRequester
+* [ ] [SimpleRequester](https://github.com/DarkTornado/SimpleRequester)
